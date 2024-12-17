@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=candy-over&show_icons=true&locale=en" alt="candy-over" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candy-over&" alt="candy-over" /></p>
+
