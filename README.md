@@ -14,4 +14,6 @@ MERN stack developer with experience in building responsive and scalable web app
 ---
 [![](https://visitcount.itsvg.in/api?id=Candy-Over&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="repo snake"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
